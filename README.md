@@ -1,9 +1,14 @@
 # Sunspider 1.0.2 for legacy devices
-## Instructions
+
+## Hosting instructions
 1. Git clone this repository.
 2. Copy/move files to your webserver's root.
 3. Profit.
-## Results
+
+## Running the tests on legacy devices
+Open http://weboslives.eu/sunspider on your web browser and follow on-screen instructions.
+
+## Example results
 Here are some results for comparison purposes (I've mixed in more some modern devices as well):
 
 1. [Palm Pixi Plus webOS 1.4.5.1 (Uberkernel 787 MHz)](http://weboslives.eu/sunspider/sunspider-1.0.2/results.html?%7B%22v%22:%20%22sunspider-1.0.2%22,%20%223d-cube%22:%5B1254,2581,1352,1330,1514,1463,1515,1470,1367,1342%5D,%223d-morph%22:%5B1912,1850,2616,2223,2131,2197,2182,2207,1923,2089%5D,%223d-raytrace%22:%5B938,918,1028,953,1041,1109,1048,1097,1036,1113%5D,%22access-binary-trees%22:%5B208,275,336,310,290,281,300,245,234,252%5D,%22access-fannkuch%22:%5B716,737,1693,1702,813,809,793,790,766,745%5D,%22access-nbody%22:%5B958,1009,1075,1007,1177,1040,1112,1119,1414,1059%5D,%22access-nsieve%22:%5B453,459,455,456,516,561,486,490,780,465%5D,%22bitops-3bit-bits-in-byte%22:%5B242,199,212,237,208,194,236,247,239,222%5D,%22bitops-bits-in-byte%22:%5B335,390,362,349,394,386,395,391,380,375%5D,%22bitops-bitwise-and%22:%5B531,517,565,579,569,528,536,660,578,610%5D,%22bitops-nsieve-bits%22:%5B832,884,800,759,887,874,814,859,838,782%5D,%22controlflow-recursive%22:%5B96,128,103,118,117,108,111,131,104,118%5D,%22crypto-aes%22:%5B530,518,402,544,517,594,580,437,1236,474%5D,%22crypto-md5%22:%5B304,391,342,359,387,376,390,366,356,342%5D,%22crypto-sha1%22:%5B411,375,337,368,378,364,368,354,328,326%5D,%22date-format-tofte%22:%5B911,959,791,945,972,941,948,889,847,872%5D,%22date-format-xparb%22:%5B1146,1294,1097,1248,1315,1226,1212,1209,1108,1199%5D,%22math-cordic%22:%5B1172,1273,1289,1228,1250,1209,1263,1184,1143,1135%5D,%22math-partial-sums%22:%5B1351,1363,1433,1434,1417,1423,1426,1364,1282,1601%5D,%22math-spectral-norm%22:%5B531,537,544,598,594,545,553,564,533,511%5D,%22regexp-dna%22:%5B264,272,294,296,299,297,294,298,268,267%5D,%22string-base64%22:%5B682,646,626,712,720,715,705,602,615,1349%5D,%22string-fasta%22:%5B1302,1267,1244,1322,1423,1298,1342,1231,1228,1618%5D,%22string-tagcloud%22:%5B850,871,842,934,924,923,943,839,838,815%5D,%22string-unpack-code%22:%5B2218,1591,1609,1758,1739,1742,1759,1568,1638,1565%5D,%22string-validate-input%22:%5B1153,1228,1216,1297,1311,1301,1319,1188,1171,1131%5D%7D)
